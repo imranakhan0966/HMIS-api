@@ -1,0 +1,3 @@
+pattern
+
+datetime/username/loglevel/class name/methodname/
